@@ -1,0 +1,4 @@
+C:\Users\ahmed\source\repos\GUI207\Debug\GUI207.MyForm.resources
+C:\Users\ahmed\source\repos\GUI207\Debug\GUI207.vcxproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\GUI207\Debug\GUI207.exe
+C:\Users\ahmed\source\repos\GUI207\Debug\GUI207.vcxproj.AssemblyReference.cache

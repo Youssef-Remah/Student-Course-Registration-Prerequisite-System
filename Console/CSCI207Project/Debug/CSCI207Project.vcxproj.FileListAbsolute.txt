@@ -1,0 +1,2 @@
+C:\Users\ahmed\source\repos\CSCI207Project\Debug\CSCI207Project.exe
+D:\C++Projects\207FinalProject\Console\CSCI207Project\Debug\CSCI207Project.exe

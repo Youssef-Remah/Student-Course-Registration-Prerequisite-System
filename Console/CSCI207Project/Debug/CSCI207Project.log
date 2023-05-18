@@ -1,0 +1,3 @@
+﻿  courseTree.cpp
+D:\C++Projects\207FinalProject\Console\CSCI207Project\courseTree.cpp(125,22): warning C4018: '<': signed/unsigned mismatch
+  CSCI207Project.vcxproj -> D:\C++Projects\207FinalProject\Console\CSCI207Project\Debug\CSCI207Project.exe
