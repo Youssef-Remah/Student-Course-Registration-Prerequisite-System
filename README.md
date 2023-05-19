@@ -14,7 +14,7 @@ This program will input the university course list with their prerequisites ONCE
 Then, whenever a student is willing to register a number of courses, he/she will enter the courses they studied and the ones they want to register in.
 The system will allow or disallow the student from registering the course based on stored course prerequisites.
 
-The project will be implemented in C++. This project has two versions, a console based one and the other is a GUI.
+The project is implemented in C++. This project has two versions, a console based one and the other is a GUI.
 
 Authors:
 A team at the university developed this project, which served as a deliverable for a university course.
